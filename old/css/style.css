@@ -1,0 +1,40 @@
+.icon {
+
+    height: 100px;
+    width: 100px ;
+    margin-right: 200px ;
+}
+.banner {
+    display: flex ;
+}
+.title-container{
+    padding-top: 30px ;
+    text-align: center ;
+    color: rgba(190, 229, 229, 0.767) ;
+    
+}
+li {
+    margin: 5px;
+}
+.form-inline {
+    
+   margin-left: 260px;   
+    
+}
+.form-group input {
+    margin: 10px ;
+}
+.mini {
+    max-width: 70%;
+    
+}
+
+
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: right;
+    width: 25%;
+    max-width: 100%; } }
+    
+    .carousel-multi-item-2 .card img {
+    border-radius: 2px; }
